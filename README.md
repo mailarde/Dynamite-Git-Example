@@ -7,4 +7,4 @@ Let's learn git basics together!
 
 CHANGES, CHANGES EVERYWHERE !!  EXPERIMENTATION OF BRANCHING !!
 
-Arde was here
+Arde was here and committed something else
